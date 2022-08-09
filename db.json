@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "value": "running",
+      "isCompleted": false,
+      "id": 2
+    },
+    {
+      "value": "push-ups",
+      "isCompleted": false,
+      "id": 3
+    },
+    {
+      "value": "Jogging",
+      "isCompleted": false,
+      "id": 4
+    },
+    {
+      "value": "boxing",
+      "isCompleted": true,
+      "id": 5
+    },
+    {
+      "value": "skiping",
+      "isCompleted": true,
+      "id": 6
+    }
+  ]
+}
